@@ -224,7 +224,7 @@ img{
     color: #2d2d2d;
     transition: 0.3s linear;
 }
-@media (min-width:1200px){
+@media (min-width:1600px){
     .pricing-card{
         width: 35rem;
     }
