@@ -99,6 +99,7 @@ nav .fa{
         display: block;
     }
     .nav-links{
+        visibility: hidden;
         position: absolute;
         background: #f66890;
         height: 100vh;
