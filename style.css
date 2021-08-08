@@ -224,6 +224,11 @@ img{
     color: #2d2d2d;
     transition: 0.3s linear;
 }
+@media (min-width:1600px){
+    .pricing-card{
+        width: 18.75rem;
+    }
+}
 .pricing-card-header{
     background-color: #71b5c2;
     display: inline-block;
