@@ -8,6 +8,16 @@
   scrollbar-color: #f66890 #000;
   overflow-x: hidden;
 }
+body::-webkit-scrollbar {
+  width: 0.4rem;
+}
+body::-webkit-scrollbar-track {
+  background: black;
+}
+body::-webkit-scrollbar-thumb {
+  background: #f66890;
+  border-radius: 5px;
+}
 .header {
   min-height: 100vh;
   width: 100%;
