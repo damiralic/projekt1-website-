@@ -226,7 +226,7 @@ img{
 }
 @media (min-width:1200px){
     .pricing-card{
-        width: 3rem;
+        width: 35rem;
     }
 }
 .pricing-card-header{
